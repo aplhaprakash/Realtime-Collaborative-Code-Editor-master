@@ -98,7 +98,7 @@ To run the app using docker, follow the steps below:
 
 # screen shot:
 
-
+![Screenshot 2025-01-12 131727](https://github.com/user-attachments/assets/94b2c742-d779-4507-9598-aeb4be52ed7d)
 .
 
 ## Future Scope
