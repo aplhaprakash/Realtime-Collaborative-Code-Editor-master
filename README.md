@@ -137,15 +137,4 @@ git commit -m "your commit message" <br>
 git push origin your_branch_name
 ```
 
-7. Finally, create a pull request by visiting your forked repository on GitHub
 
-**Note:** Please make sure to use your own branch when contributing.
-
-## About Me
-
-I am Mohd Mohitur Rahaman, a tech geek, currently pursuing a Master's in Computer Applications (Final Year) from KIIT, Bhubaneswar. And with a deep passion for coding and a strong love for science & technology, I am dedicated to honing my skills and achieving proficiency as a developer.
-
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/mohitur02/)
-- [GitHub](https://www.github.com/Mohitur669/)
