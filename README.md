@@ -3,7 +3,7 @@
 
 **Company**: CODETECH IT SOLUTIONS  
 
-**Name**  : prakash v
+**Name**  : PRAKASH V
 
 **Id**:CT08ECB
 
