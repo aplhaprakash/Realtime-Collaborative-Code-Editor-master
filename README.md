@@ -1,5 +1,21 @@
 # Sync Code: Realtime Collaborative Code Editor
 
+
+**Company**: CODETECH IT SOLUTIONS  
+
+**Name**  : prakash v
+
+**Id**:CT08ECB
+
+**Domain**:FULl STACK WEB DEVOPLEMENT
+
+**Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
+
+**Mentor Name** : NEELA SANTHOSH
+---
+
+
+
 ## Introduction
 
 Are you tired of sending code snippets back and forth, struggling to debug and collaborate with your team? Look no further! **Sync Code** is here to revolutionize the way you code together. This powerful and intuitive collaborative code editor is designed to empower developers, and teams to work seamlessly in real-time, regardless of their location. With **Sync Code**, you can code together, debug together, and ship faster, together.
@@ -80,14 +96,10 @@ To run the app using docker, follow the steps below:
 6. Go to `http://localhost:3000` to view the app
 7. Follow the steps 4-7 from the [Running via Docker Image](https://github.com/Mohitur669/Realtime-Collaborative-Code-Editor?tab=readme-ov-file#running-via-docker-image) section to create and join a room
 
-**Note:** To stop your server, press `Ctrl+c` or if you used "pm2", then use `pm2 stop server.js` in the terminal.
+# screen shot:
 
-## Project Video
 
-https://github.com/Mohitur669/Realtime-Collaborative-Code-Editor/assets/79283402/14c17cc7-d23a-4d39-8af3-ef9e9fa8ef45
-
-**Note:** If you find any bugs, create an Issue [here](https://github.com/Mohitur669/Realtime-Collaborative-Code-Editor/issues). I will try to fix it as soon as possible :) <br>
-In case you want to fix it yourself, feel free to make a pull request.
+.
 
 ## Future Scope
 
